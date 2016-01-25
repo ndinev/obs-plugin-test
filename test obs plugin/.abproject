@@ -1,0 +1,45 @@
+{
+  "ProjectName": "test obs plugin",
+  "ProjectGuid": "ac5dc875-83e6-4346-8ffa-97b9da326b61",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.testobsplugin",
+  "DisplayName": "test obs plugin",
+  "Author": "",
+  "Description": "test obs plugin",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{e948ae43-d90f-4dfa-bc17-e7ab69a599ae}",
+  "WP8ProductID": "{495b0c7b-7d6f-4884-bde1-417d6733b6f5}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.testobsplugin",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
