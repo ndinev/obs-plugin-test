@@ -1,9 +1,5 @@
 {
   "CorePlugins": [
-    "com.telerik.feedback",
-    "com.telerik.LivePatch",
-    "com.telerik.mobiletesting",
-    "com.telerik.plugin.eqatecanalytics",
     "org.apache.cordova.battery-status",
     "org.apache.cordova.camera",
     "org.apache.cordova.contacts",
